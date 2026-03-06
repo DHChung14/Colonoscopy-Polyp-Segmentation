@@ -1,5 +1,7 @@
 # Colonoscopy Polyp Segmentation
 
+Dataset: https://www.kaggle.com/competitions/bkai-igh-neopolyp/data
+
 📌 Project Overview
 
 This project develops an automated image analysis system designed to assist medical professionals in detecting and evaluating polyps during colonoscopy procedures. By accurately segmenting polyps from raw endoscopic images and instantly classifying their risk level, the system acts as a reliable "second pair of eyes" for doctors, aiming to improve early detection rates of colorectal cancer.
